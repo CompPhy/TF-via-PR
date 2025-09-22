@@ -1,3 +1,7 @@
+**NOTE:  This fork will attempt to make the action work with Gitea, instead of GitHub.**
+**It will make use of the Gitea Tea utility, in place of the GitHub CLI.**
+
+
 [![Terraform Compatible](https://img.shields.io/badge/Terraform-Compatible-844FBA?logo=terraform&logoColor=white)](https://github.com/hashicorp/setup-terraform "Terraform Compatible.")
 [![OpenTofu Compatible](https://img.shields.io/badge/OpenTofu-Compatible-FFDA18?logo=opentofu&logoColor=white)](https://github.com/opentofu/setup-opentofu "OpenTofu Compatible.")
 *
